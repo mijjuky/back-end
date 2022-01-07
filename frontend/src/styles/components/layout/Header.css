@@ -1,0 +1,30 @@
+header{
+    background-image: url(https://w7.pngwing.com/pngs/741/30/png-transparent-the-night-sky-night-night-sky-star.png);
+    background-repeat: repeat-x;
+    color: #ffffff;
+    padding-bottom: 1px;
+}
+
+header img{
+    display: block;
+    margin: auto;
+    margin-top: 16px;
+}
+
+header h1{
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 50px;
+    font-style: 'Raleway', sans-serif; 
+    font-weight: 700;
+    text-align: center;
+}
+
+header p{
+    color: white;
+    font-size: 18px;
+    font-style: 'Raleway', sans-serif; 
+    font-weight: 100;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
